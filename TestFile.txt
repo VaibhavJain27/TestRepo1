@@ -1,4 +1,8 @@
 Change 1 – commit with message as “Change 1 in File1”
 Change 2 – commit with message as “Change 2 in File1”
 
+
 New Commit On Master Branch
+
+New Commit On Idea Branch
+
